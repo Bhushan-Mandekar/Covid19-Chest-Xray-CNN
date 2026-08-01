@@ -267,7 +267,10 @@ python -m streamlit run app.py
 
 **Bhushan C. Mandekar**
 
-Advanced Certification in Data Science, Machine Learning & AI
+Data Science, Machine Learning & AI Enthusiast
+
+**Currently Pursuing:** Advanced Certification in Data Science, Machine Learning & AI
+
 
 ---
 
