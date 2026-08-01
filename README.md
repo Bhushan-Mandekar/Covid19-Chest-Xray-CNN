@@ -52,6 +52,8 @@ The project compares multiple Convolutional Neural Network (CNN) architectures, 
 * Git & GitHub
 
 ---
+## 📁 Project Structure
+
 covid19-chest-xray-cnn/
 │
 ├── images/
