@@ -227,20 +227,14 @@ python -m streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-Add your application screenshots inside the **images** folder.
+## 📸 Application Screenshots
 
 ### Home Page
 
-```markdown
 ![Home](images/home.png)
-```
 
+### Prediction Result
 
-### Result Page
-
-```markdown
 ![Result](images/result.png)
 ```
 
