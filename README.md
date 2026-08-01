@@ -54,6 +54,7 @@ The project compares multiple Convolutional Neural Network (CNN) architectures, 
 ---
 ## 📁 Project Structure
 
+```text
 covid19-chest-xray-cnn/
 │
 ├── images/
@@ -68,7 +69,7 @@ covid19-chest-xray-cnn/
 ├── README.md
 ├── .gitignore
 └── LICENSE (Optional)
-
+```
 ## 📌 Note
 
 The dataset and trained model are not included in this repository due to GitHub file size limitations.
