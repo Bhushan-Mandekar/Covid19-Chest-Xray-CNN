@@ -63,7 +63,6 @@ covid19-chest-xray-cnn/
 │
 ├── images/
 │   ├── home.png
-│   ├── prediction.png
 │   └── result.png
 │
 ├── models/
