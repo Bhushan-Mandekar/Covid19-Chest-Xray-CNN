@@ -1,0 +1,17 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
+joblib
+xgboost
+opencv-python
+matplotlib
+seaborn
+tqdm
+tensorflow
+pillow
+h5py
+keras-tuner
