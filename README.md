@@ -229,14 +229,27 @@ python -m streamlit run app.py
 
 ## 📸 Application Screenshots
 
-### Home Page
+### 🏠 Home Page
 
 ![Home](images/home.png)
 
-### Prediction Result
+---
 
-![Result](images/result.png)
-```
+### 🦠 COVID-19 Prediction
+
+![COVID Result](images/covid_result.png)
+
+---
+
+### 🫁 Normal Prediction
+
+![Normal Result](images/normal_result.png)
+
+---
+
+### 🤒 Viral Pneumonia Prediction
+
+![Viral Pneumonia Result](images/viral_pneumonia_result.png)
 
 ---
 
