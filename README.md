@@ -52,29 +52,27 @@ The project compares multiple Convolutional Neural Network (CNN) architectures, 
 * Git & GitHub
 
 ---
-
-## 📁 Project Structure
-
-```text
 covid19-chest-xray-cnn/
-│
-├── archive/
-│   └── Covid19-dataset/
 │
 ├── images/
 │   ├── home.png
-│   └── result.png
-│
-├── models/
-│   └── final_covid_model.keras
+│   ├── covid_result.png
+│   ├── normal_result.png
+│   └── viral_pneumonia_result.png
 │
 ├── covid_detection.ipynb
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
-```
+├── .gitignore
+└── LICENSE (Optional)
 
+## 📌 Note
+
+The dataset and trained model are not included in this repository due to GitHub file size limitations.
+
+- **Dataset:** https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset
+- **Model:** Train the model using the provided notebook, or use your own trained `final_covid_model.keras` file.
 ---
 
 ## ⚙️ Data Preprocessing
